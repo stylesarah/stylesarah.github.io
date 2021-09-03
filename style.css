@@ -1,52 +1,18 @@
-* {border: 1px solid red;}
-
 body {
-    background-color: lightslategray;
-    }
-
-    h1 {font-family: fantasy;
-        color: white;
-    text-align: center;
-font-style: oblique;}
-
-    h2 {font-family: cursive;
-    font: 45px;
-color: sandybrown;
-text-align: center;
-border-bottom: 3px solid rgb(166, 222, 255);
+background-color: #F6F6F6;
+}
+h1 {color: #002D5D;
+font-size: 105px;
+font-family: Arial, Helvetica, sans-serif;
 }
 
-h3 {color: white;
-    text-align: center;
-    text-decoration: none;
+p {color: #002D5D;
+}
+
+h2 {color: crimson;
 }
 
 a:hover {
-color: violet;
-font-size: x-large;
+    color: cyan;
+    border-bottom: 3px solid darkorange;
 }
-
-p {font-family: serif;
-color: white;
-text-align: center;
-
-border-bottom: turquoise;
-border-bottom: 4px;
-}
-
-.mammals {color: red;
-font-weight: bold;
-padding-left: 30px;
-padding-right: 30px;}
-
-.birds {color: blue;
-font-style: italic;
-margin-top: 30px;
-padding-bottom: 40px;}
-
-.fish {color: orange;
-text-decoration: underline;
-padding: 30px;
-margin-bottom: 40px;}
-
-#first-ol {background-color: palegreen;}
